@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @josemcasas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @josemcasasp
+- 👀 I’m interested in videogames and their tech art side
+- 🌱 I’m currently learning C++/UE5
+- 📫 How to reach me josemcasasp@gmail.com
 
 <!---
-josemcasas/josemcasas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+josemcasasp/josemcasasp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
